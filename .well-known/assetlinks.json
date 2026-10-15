@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.triumphantgames2026_cloud.twa",
+        "sha256_cert_fingerprints": ["2E:6E:9A:EC:DD:48:A0:88:B6:C5:94:F6:48:07:CB:FD:D5:BC:93:FB:B1:4A:55:09:F6:C8:FD:27:84:C5:8D:99"]
+      }
+    }]
